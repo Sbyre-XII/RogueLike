@@ -1,0 +1,29 @@
+Idée projet personnel
+Main idea : Video Game
+Type : RogueLike - 3D
+Inspiration pour le RogueLike : Minecraft Dungeon (jeu en 3D isométrique)
+Inspiration pour le GamePlay : The Binding of Isaac - Hades (jeu en 2D Isométrique)
+
+
+Sauvegarde d'avancement
+Création d'un dossier avec les données utiles au lancement du jeu
+
+
+Grande map : Pour générer seulement les salles où endroit dans lequel l'utilisateur se trouve, on utilise la méthode de idSoftware
+Méthode de John Carmack : Pour éviter les calculs du raycasting (qui oblige la création de map en quadrillage, on utilise des zone dans lesquel on sais que l'on doit afficher
+on cache donc se qui n'est pas vu pour avoir des performances optimales (peut-être pas utile pour un jeu aussi petit mais on est là pour opti)
+
+Possibilité d'utiliser le clavier ou une manette
+
+
+GAMEPLAY 
+
+Mouvement :
+Haut - Bas - Droite - Gauche = Clavier ou Joystick
+Dash : Double touche sur une touche ou sur le joystick /// OU /// Un bouton attribué
+
+Sort :
+d'Attaque :
+- 
+de Défence :
+- 
